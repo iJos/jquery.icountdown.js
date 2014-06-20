@@ -1,5 +1,13 @@
-// iCountDown.js
-// Version : v0.0.1
+/*!
+ * jquery.icountdown.js | jQuery Count Down Plugin v0.0.1
+ * 
+ * https://github.com/iJos/jquery.icountdown.js
+ *
+ * Copyright 2015 Jose Luis Jimenez | @iJos
+ * 
+ * Released under MIT License
+ */
+
 
 (function($){
 
