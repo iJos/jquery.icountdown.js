@@ -3,7 +3,7 @@
  * 
  * https://github.com/iJos/jquery.icountdown.js
  *
- * Copyright 2015 Jose Luis Jimenez | @iJos
+ * Copyright 2014 Jose Luis Jimenez | @iJos
  * 
  * Released under MIT License
  */
